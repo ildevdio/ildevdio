@@ -1,5 +1,12 @@
 ## Iae!
 
+<div>
+  <a href="https://github.com/ildevdio"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ildevdio&show_icons=true&theme=synthwave">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildevdio&layout=compact&theme=synthwave"> 
+  </a>
+</div>
+
 - </> Javascript
 - 😄 Ele/dele
 - ⚡ Ainda cursando o ensino médio

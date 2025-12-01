@@ -46,8 +46,8 @@
 
 ## 📫 Me encontre por aí
 - GitHub: [ildevdio](https://github.com/ildevdio)  
-- LinkedIn: [Seu LinkedIn aqui](#)  
-- Email: [Seu email aqui](#)
+- LinkedIn: [Diogo Woolley](https://linkedin.com/in/DioWoolley)  
+- Email: [diogoswc@gmail.com]
 
 ---
 

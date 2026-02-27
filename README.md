@@ -4,7 +4,7 @@
 
 🎓 18 anos | Estudante de **ADS na CESAR School**  
 💻 Apaixonado por **tecnologia, desenvolvimento e inovação**  
-🎮 Já desenvolvi **PongLogico**, **ColdWheels** (carro Bluetooth com Arduino), **Farmastok** e outros projetos pessoais
+👨🏽‍💻Desenvolvendo agora:<a href=https://github.com/ildevdio/Focus.> Focus. - Seu Copiloto pessoal</a>
 
 ---
 
@@ -52,6 +52,7 @@
 ---
 
 ## ⚡ Curiosidades
+- 🎮 Já desenvolvi **PongLogico**, **ColdWheels** (carro Bluetooth com Arduino), **Farmastok** e outros projetos pessoais
 - 🥋 Sou atleta de luta desde meus 6 anos de idade
 - 🕹️ Já fiz jogos, robôs e sistemas web  
 - 🤖 Experiência com Arduino e IoT  

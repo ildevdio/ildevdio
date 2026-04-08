@@ -4,7 +4,7 @@
 
 🎓 18 anos | Estudante de **ADS na CESAR School**  
 💻 Apaixonado por **tecnologia, desenvolvimento e inovação**  
-👨🏽‍💻Desenvolvendo agora:<a href=https://github.com/ildevdio/Focus.> Focus. - Seu Copiloto pessoal</a>
+👨🏽‍💻Fundador da:<a href=https://focus-solutions.vercel.app> Focus. - Soluções Tecnológicas</a>
 
 ---
 

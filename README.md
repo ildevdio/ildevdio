@@ -45,7 +45,7 @@
 ---
 
 ## 📫 Me encontre por aí
-- GitHub: [ildevdio](https://github.com/ildevdio)  
+- Instagram: [Diookkj](https://instagram.com/Diookkj)  
 - LinkedIn: [Diogo Woolley](https://linkedin.com/in/DioWoolley)  
 - Email: [diogoswc@gmail.com]
 
